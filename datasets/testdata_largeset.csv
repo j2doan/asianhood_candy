@@ -1,91 +1,91 @@
-Index,Day,Time,Probability,Boosted Probability,Boosted People,Special Notes,Type,Michael,Jacob,Gavin,Lawrence,Nathan,Gabby,Raymond,Chris,Kurumi,Ethan,Chloe,Aidan,Justin,Lilly,Mudkip,Will,James,Denzel
-0,Oct 1,0,"{0:0.75, 1:0.25}",NaN,NaN,mrs. johnson,no_skip,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,NaN
-1,Oct 1,20,"{0:0.75, 1:0.25}",NaN,NaN,mrs. johnson,no_skip,0,0,NaN,0,1,0,0,0,NaN,0,NaN,1,NaN,1,1,NaN,NaN,NaN
-2,Oct 2,0,"{0:0.75, 1:0.25}",NaN,NaN,mrs. johnson,no_skip,0,0,1,NaN,1,0,0,0,NaN,0,0,NaN,0,1,0,0,0,NaN
-3,Oct 2,-1,"{0:0.75, 6:0.25}",NaN,NaN,horse derby,no_skip,0,0,0,NaN,0,6,0,0,NaN,0,0,0,6,0,0,6,0,NaN
-4,Oct 2,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,0,0,0,NaN,0,1,0,0,2,2,1,0,0,0,1,NaN,0,NaN
-5,Oct 3,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,2,1,0,1,1,1,1,0,2,2,NaN,NaN,1,NaN,0,NaN,NaN,NaN
-6,Oct 3,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,1,1,NaN,1,3,1,1,1,NaN,1,NaN,NaN,2,1,NaN,NaN,0,NaN
-7,Oct 4,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,"mr. kim, two 1% pulls!",no_skip,1,1,0,2,0,NaN,1,1,10,0,10,3,3,1,1,NaN,0,NaN
-8,Oct 4,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,0,1,2,0,1,0,0,1,NaN,0,2,2,2,1,1,NaN,0,NaN
-9,Oct 5,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,0,0,3,0,0,1,1,0,0,0,2,NaN,0,0,1,NaN,0,NaN
-10,Oct 5,1,"{5:0.5, 8:0.35, 10:0.1, 18:0.04, 30:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,NaN,5,8,5,NaN,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-11,Oct 5,-1,"{8:0.25, 0:0.75}",NaN,NaN,horse derby,no_skip,0,NaN,0,0,0,0,0,0,0,0,0,8,0,8,0,8,8,NaN
-12,Oct 5,8,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,1,0,0,1,NaN,1,NaN,1,NaN,1,0,0,0,1,NaN,NaN,NaN,NaN
-13,Oct 6,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,2,0,2,0,0,2,4,4,2,0,2,0,2,4,2,NaN,2,NaN
-14,Oct 6,19,"{5:0.5, 8:0.35, 10:0.1, 18:0.04, 30:0.01}",NaN,NaN,"giovanni, 1% pull!",no_skip,NaN,NaN,NaN,NaN,5,8,5,8,8,NaN,5,30,NaN,NaN,NaN,NaN,NaN,NaN
-15,Oct 6,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,2,4,NaN,NaN,4,4,2,4,NaN,2,4,0,2,6,2,NaN,6,NaN
-16,Oct 7,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,4,4,0,2,4,4,0,0,2,0,NaN,0,6,2,NaN,4,NaN
-17,Oct 7,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,2,2,4,0,0,2,2,NaN,0,NaN,0,0,2,NaN,NaN,4,NaN
-18,Oct 8,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,4,2,2,NaN,2,0,0,0,NaN,18,NaN,NaN,4,2,0,NaN,2,NaN
-19,Oct 8,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,"esmerelda, ethan ping wrong",no_skip,0,2,0,2,NaN,6,2,0,NaN,NaN,NaN,0,NaN,0,NaN,NaN,4,NaN
-20,Oct 9,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,0,2,0,4,0,2,0,0,4,NaN,NaN,6,NaN,4,NaN,0,NaN
-21,Oct 9,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,0,NaN,2,0,6,2,0,NaN,2,0,0,2,6,NaN,NaN,0,NaN
-22,Oct 10,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,2,2,NaN,2,2,4,4,0,2,2,NaN,NaN,NaN,NaN,4,4,2,NaN
-23,Oct 10,-1,"{11:0.16, 0:0.84} ",NaN,NaN,pick a door,no_skip,0,11,0,0,NaN,0,0,0,0,11,0,0,0,0,0,11,0,NaN
-24,Oct 10,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,0,0,NaN,NaN,3,0,6,6,NaN,0,NaN,3,6,NaN,NaN,3,NaN,NaN
-25,Oct 11,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,"ms. whiskers, anh james banned",no_skip,0,0,0,10,0,0,0,6,NaN,0,NaN,NaN,3,NaN,6,6,NaN,NaN
-26,Oct 11,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,"ms. whiskers, 0.9% b2b",no_skip,3,0,NaN,0,6,3,NaN,20,NaN,NaN,NaN,NaN,20,NaN,0,NaN,NaN,NaN
-27,Oct 12,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,3,0,NaN,0,NaN,NaN,3,0,NaN,0,NaN,NaN,0,3,3,NaN,NaN,NaN
-28,Oct 12,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,3,0,NaN,3,6,NaN,3,0,NaN,3,NaN,NaN,0,6,6,NaN,NaN,NaN
-29,Oct 13,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,0,0,0,3,0,3,3,0,3,0,NaN,6,0,0,0,NaN,NaN,3
-30,Oct 13,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,3,3,NaN,NaN,3,NaN,3,0,10,0,NaN,0,0,3,3,NaN,NaN,NaN
-31,Oct 14,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,0,0,3,0,0,3,6,0,3,0,NaN,NaN,3,10,NaN,NaN,NaN,NaN
-32,Oct 14,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001}",NaN,NaN,ms. whiskers,no_skip,0,3,6,0,NaN,0,3,0,NaN,3,NaN,NaN,0,NaN,10,NaN,NaN,NaN
-33,Oct 15,-1,"{0:0.75, 15:0.25}",NaN,NaN,"horse derby, RIP jokerhorse",no_skip,0,0,0,0,0,15,0,0,15,0,15,0,15,0,0,0,0,NaN
-34,Oct 15,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001}",NaN,NaN,ms. whiskers,no_skip,0,0,NaN,0,0,NaN,NaN,0,NaN,0,NaN,6,0,3,NaN,NaN,NaN,NaN
-35,Oct 15,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001}",NaN,NaN,ms. whiskers,no_skip,6,0,0,NaN,NaN,0,3,0,3,0,NaN,0,0,10,0,NaN,NaN,NaN
-36,Oct 16,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Lawrence, Aidan (Uy)]",richard,no_skip,0,0,12,12,4,0,0,12,0,0,NaN,12,4,0,NaN,NaN,4,NaN
-37,Oct 16,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Gabby, Aidan]",richard,no_skip,0,0,0,0,0,8,NaN,12,4,4,NaN,8,0,0,12,NaN,NaN,NaN
-38,Oct 17,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Gabby],richard,no_skip,4,0,NaN,NaN,NaN,8,0,8,NaN,8,8,NaN,0,NaN,NaN,NaN,NaN,NaN
-39,Oct 17,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Chloe Gabby],richard,no_skip,4,8,NaN,4,NaN,8,NaN,0,NaN,0,8,4,NaN,NaN,0,NaN,0,NaN
-40,Oct 18,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Ethan, Nathan]",richard,no_skip,0,0,NaN,NaN,8,0,0,0,NaN,8,NaN,NaN,0,4,0,NaN,0,NaN
-41,Oct 18,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Gabby, Aidan]",richard,no_skip,0,0,NaN,0,NaN,8,4,0,NaN,4,NaN,0,4,NaN,0,NaN,NaN,NaN
-42,Oct 19,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Chris, Ethan]",richard,no_skip,0,8,NaN,NaN,0,0,0,8,4,0,NaN,NaN,0,0,NaN,NaN,NaN,NaN
-43,Oct 19,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Ethan],richard,no_skip,8,8,0,0,NaN,0,0,0,0,0,12,8,4,4,4,NaN,0,NaN
-44,Oct 20,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[],richard,no_skip,8,0,4,0,12,NaN,NaN,4,4,NaN,NaN,NaN,NaN,4,4,NaN,NaN,NaN
-45,Oct 20,1,"{0.5:9, 0.35:12, 0.1:16, 0.04:21, 0.01:40}",NaN,NaN,giovanni,no_skip,NaN,16,NaN,21,9,9,9,NaN,16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,NaN
-46,Oct 20,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Raymond, Lilly]",richard,no_skip,8,0,NaN,NaN,NaN,0,0,8,NaN,0,4,NaN,4,0,0,NaN,4,NaN
-47,Oct 21,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Ethan],richard,no_skip,4,4,4,8,0,0,0,0,4,8,4,NaN,NaN,8,12,NaN,0,NaN
-48,Oct 21,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Gabby, Chloe]",richard,no_skip,0,0,NaN,0,NaN,0,12,4,NaN,30,8,NaN,4,12,4,NaN,NaN,NaN
-49,Oct 22,-1,"{0.25:19, 0.75:0}",NaN,NaN,horse derby,no_skip,NaN,NaN,NaN,NaN,NaN,NaN,19,NaN,NaN,19,19,NaN,NaN,NaN,NaN,19,NaN,NaN
-50,Oct 22,0,NaN,NaN,NaN,BANNED,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-51,Oct 22,20,NaN,NaN,NaN,BANNED,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-52,Oct 23,0,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-53,Oct 23,20,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-54,Oct 23,21,"{8:0.5, 0:0.5}",NaN,NaN,house wars,no_skip,NaN,NaN,0,NaN,8,NaN,8,8,NaN,0,NaN,0,NaN,NaN,0,8,NaN,NaN
-55,Oct 24,0,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-56,Oct 24,20,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-57,Oct 24,21,"{8:0.5, 0:0.5}",NaN,NaN,house wars,no_skip,8,8,NaN,8,NaN,0,NaN,NaN,0,NaN,0,NaN,8,0,NaN,NaN,NaN,NaN
-58,Oct 25,0,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-59,Oct 25,20,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-60,Oct 26,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-61,Oct 26,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-62,Oct 27,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,"giovanni, LAWRENCE JACKPOT, first people freed",no_skip,NaN,NaN,NaN,42,NaN,9,NaN,24,NaN,13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-63,Oct 27,2,NaN,NaN,NaN,house wars,no_skip,8,8,0,8,NaN,NaN,NaN,NaN,NaN,0,NaN,0,8,NaN,0,NaN,NaN,NaN
-64,Oct 27,2,NaN,NaN,NaN,house wars,no_skip,NaN,NaN,NaN,NaN,8,0,8,8,0,NaN,0,NaN,NaN,0,NaN,8,NaN,NaN
-65,Oct 27,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,"giovanni, lawerence +1 for ref mistake",no_skip,NaN,NaN,NaN,14,NaN,9,NaN,9,NaN,9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
-66,Oct 27,21,NaN,NaN,NaN,house wars,no_skip,NaN,NaN,0,NaN,NaN,8,NaN,NaN,8,0,8,0,NaN,8,0,NaN,NaN,NaN
-67,Oct 28,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,9,NaN,9,13,9,NaN,9,NaN,NaN,13,13,NaN,NaN,NaN,NaN
+Index,Day,Time,Probability,Boosted Probability,Boosted People,Special Notes,Type,Michael,Jacob,Gavin,Lawrence,Nathan,Gabby,Raymond,Chris,Kurumi,Ethan,Chloe,Aidan,Justin,Lilly,Mudkip,Will,James,Denzel,Michael_mult,Jacob_mult,Gavin_mult,Lawrence_mult,Nathan_mult,Gabby_mult,Raymond_mult,Chris_mult,Kurumi_mult,Ethan_mult,Chloe_mult,Aidan_mult,Justin_mult,Lilly_mult,Mudkip_mult,Will_mult,James_mult,Denzel_mult
+0,Oct 1,0,"{0:0.75, 1:0.25}",NaN,NaN,mrs. johnson,no_skip,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,Oct 1,20,"{0:0.75, 1:0.25}",NaN,NaN,mrs. johnson,no_skip,0,0,NaN,0,1,0,0,0,NaN,0,NaN,1,NaN,1,1,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2,Oct 2,0,"{0:0.75, 1:0.25}",NaN,NaN,mrs. johnson,no_skip,0,0,1,NaN,1,0,0,0,NaN,0,0,NaN,0,1,0,0,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,Oct 2,-1,"{0:0.75, 6:0.25}",NaN,NaN,horse derby,no_skip,0,0,0,NaN,0,6,0,0,NaN,0,0,0,6,0,0,6,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+4,Oct 2,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,0,0,0,NaN,0,1,0,0,2,2,1,0,0,0,1,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+5,Oct 3,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,2,1,0,1,1,1,1,0,2,2,NaN,NaN,1,NaN,0,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+6,Oct 3,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,1,1,NaN,1,3,1,1,1,NaN,1,NaN,NaN,2,1,NaN,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+7,Oct 4,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,"mr. kim, two 1% pulls!",no_skip,1,1,0,2,0,NaN,1,1,10,0,10,3,3,1,1,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+8,Oct 4,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,0,1,2,0,1,0,0,1,NaN,0,2,2,2,1,1,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+9,Oct 5,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,mr. kim,no_skip,0,0,3,0,0,1,1,0,0,0,2,NaN,0,0,1,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+10,Oct 5,1,"{5:0.5, 8:0.35, 10:0.1, 18:0.04, 30:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,NaN,5,8,5,NaN,5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+11,Oct 5,-1,"{8:0.25, 0:0.75}",NaN,NaN,horse derby,no_skip,0,NaN,0,0,0,0,0,0,0,0,0,8,0,8,0,8,8,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+12,Oct 5,8,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,1,0,0,1,NaN,1,NaN,1,NaN,1,0,0,0,1,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+13,Oct 6,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,2,0,2,0,0,2,4,4,2,0,2,0,2,4,2,NaN,2,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+14,Oct 6,19,"{5:0.5, 8:0.35, 10:0.1, 18:0.04, 30:0.01}",NaN,NaN,"giovanni, 1% pull!",no_skip,NaN,NaN,NaN,NaN,5,8,5,8,8,NaN,5,30,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+15,Oct 6,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,2,4,NaN,NaN,4,4,2,4,NaN,2,4,0,2,6,2,NaN,6,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+16,Oct 7,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,4,4,0,2,4,4,0,0,2,0,NaN,0,6,2,NaN,4,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+17,Oct 7,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,2,2,4,0,0,2,2,NaN,0,NaN,0,0,2,NaN,NaN,4,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+18,Oct 8,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,4,2,2,NaN,2,0,0,0,NaN,18,NaN,NaN,4,2,0,NaN,2,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+19,Oct 8,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,"esmerelda, ethan ping wrong",no_skip,0,2,0,2,NaN,6,2,0,NaN,NaN,NaN,0,NaN,0,NaN,NaN,4,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+20,Oct 9,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,0,2,0,4,0,2,0,0,4,NaN,NaN,6,NaN,4,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+21,Oct 9,20,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,0,0,NaN,2,0,6,2,0,NaN,2,0,0,2,6,NaN,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+22,Oct 10,0,"{0:0.38, 2:0.37, 4:0.18, 6:0.05, 18:0.02}",NaN,NaN,esmerelda,no_skip,2,2,NaN,2,2,4,4,0,2,2,NaN,NaN,NaN,NaN,4,4,2,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+23,Oct 10,-1,"{11:0.16, 0:0.84} ",NaN,NaN,pick a door,no_skip,0,11,0,0,NaN,0,0,0,0,11,0,0,0,0,0,11,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+24,Oct 10,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,0,0,NaN,NaN,3,0,6,6,NaN,0,NaN,3,6,NaN,NaN,3,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+25,Oct 11,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,"ms. whiskers, anh james banned",no_skip,0,0,0,10,0,0,0,6,NaN,0,NaN,NaN,3,NaN,6,6,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+26,Oct 11,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,"ms. whiskers, 0.9% b2b",no_skip,3,0,NaN,0,6,3,NaN,20,NaN,NaN,NaN,NaN,20,NaN,0,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+27,Oct 12,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,3,0,NaN,0,NaN,NaN,3,0,NaN,0,NaN,NaN,0,3,3,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+28,Oct 12,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,3,0,NaN,3,6,NaN,3,0,NaN,3,NaN,NaN,0,6,6,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+29,Oct 13,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,0,0,0,3,0,3,3,0,3,0,NaN,6,0,0,0,NaN,NaN,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+30,Oct 13,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,3,3,NaN,NaN,3,NaN,3,0,10,0,NaN,0,0,3,3,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+31,Oct 14,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001} ",NaN,NaN,ms. whiskers,no_skip,0,0,3,0,0,3,6,0,3,0,NaN,NaN,3,10,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+32,Oct 14,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001}",NaN,NaN,ms. whiskers,no_skip,0,3,6,0,NaN,0,3,0,NaN,3,NaN,NaN,0,NaN,10,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+33,Oct 15,-1,"{0:0.75, 15:0.25}",NaN,NaN,"horse derby, RIP jokerhorse",no_skip,0,0,0,0,0,15,0,0,15,0,15,0,15,0,0,0,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+34,Oct 15,0,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001}",NaN,NaN,ms. whiskers,no_skip,0,0,NaN,0,0,NaN,NaN,0,NaN,0,NaN,6,0,3,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+35,Oct 15,20,"{0:0.46, 3:0.35, 6:0.12, 10:0.06, 20:0.009, 50:0.001}",NaN,NaN,ms. whiskers,no_skip,6,0,0,NaN,NaN,0,3,0,3,0,NaN,0,0,10,0,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+36,Oct 16,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Lawrence, Aidan (Uy)]",richard,no_skip,0,0,12,12,4,0,0,12,0,0,NaN,12,4,0,NaN,NaN,4,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+37,Oct 16,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Gabby, Aidan]",richard,no_skip,0,0,0,0,0,8,NaN,12,4,4,NaN,8,0,0,12,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+38,Oct 17,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Gabby],richard,no_skip,4,0,NaN,NaN,NaN,8,0,8,NaN,8,8,NaN,0,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+39,Oct 17,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Chloe Gabby],richard,no_skip,4,8,NaN,4,NaN,8,NaN,0,NaN,0,8,4,NaN,NaN,0,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+40,Oct 18,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Ethan, Nathan]",richard,no_skip,0,0,NaN,NaN,8,0,0,0,NaN,8,NaN,NaN,0,4,0,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+41,Oct 18,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Gabby, Aidan]",richard,no_skip,0,0,NaN,0,NaN,8,4,0,NaN,4,NaN,0,4,NaN,0,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+42,Oct 19,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Chris, Ethan]",richard,no_skip,0,8,NaN,NaN,0,0,0,8,4,0,NaN,NaN,0,0,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+43,Oct 19,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Ethan],richard,no_skip,8,8,0,0,NaN,0,0,0,0,0,12,8,4,4,4,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+44,Oct 20,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[],richard,no_skip,8,0,4,0,12,NaN,NaN,4,4,NaN,NaN,NaN,NaN,4,4,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+45,Oct 20,1,"{0.5:9, 0.35:12, 0.1:16, 0.04:21, 0.01:40}",NaN,NaN,giovanni,no_skip,NaN,16,NaN,21,9,9,9,NaN,16,NaN,NaN,NaN,NaN,NaN,NaN,NaN,9,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+46,Oct 20,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Raymond, Lilly]",richard,no_skip,8,0,NaN,NaN,NaN,0,0,8,NaN,0,4,NaN,4,0,0,NaN,4,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+47,Oct 21,0,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}",[Ethan],richard,no_skip,4,4,4,8,0,0,0,0,4,8,4,NaN,NaN,8,12,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+48,Oct 21,20,"{0:0.48, 4:0.32, 8:0.12, 12:0.06, 30:0.019, 60:0.001}","{0:0.40, 8:0.32, 12:0.21, 20:0.06, 42:0.0099, 100:0.0001}","[Gabby, Chloe]",richard,no_skip,0,0,NaN,0,NaN,0,12,4,NaN,30,8,NaN,4,12,4,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+49,Oct 22,-1,"{0.25:19, 0.75:0}",NaN,NaN,horse derby,no_skip,NaN,NaN,NaN,NaN,NaN,NaN,19,NaN,NaN,19,19,NaN,NaN,NaN,NaN,19,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+50,Oct 22,0,NaN,NaN,NaN,BANNED,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+51,Oct 22,20,NaN,NaN,NaN,BANNED,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+52,Oct 23,0,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+53,Oct 23,20,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+54,Oct 23,21,"{8:0.5, 0:0.5}",NaN,NaN,house wars,no_skip,NaN,NaN,0,NaN,8,NaN,8,8,NaN,0,NaN,0,NaN,NaN,0,8,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+55,Oct 24,0,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+56,Oct 24,20,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+57,Oct 24,21,"{8:0.5, 0:0.5}",NaN,NaN,house wars,no_skip,8,8,NaN,8,NaN,0,NaN,NaN,0,NaN,0,NaN,8,0,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+58,Oct 25,0,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+59,Oct 25,20,NaN,NaN,NaN,candy checklist,skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+60,Oct 26,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+61,Oct 26,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+62,Oct 27,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,"giovanni, LAWRENCE JACKPOT, first people freed",no_skip,NaN,NaN,NaN,42,NaN,9,NaN,24,NaN,13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+63,Oct 27,2,NaN,NaN,NaN,house wars,no_skip,8,8,0,8,NaN,NaN,NaN,NaN,NaN,0,NaN,0,8,NaN,0,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+64,Oct 27,2,NaN,NaN,NaN,house wars,no_skip,NaN,NaN,NaN,NaN,8,0,8,8,0,NaN,0,NaN,NaN,0,NaN,8,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+65,Oct 27,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,"giovanni, lawerence +1 for ref mistake",no_skip,NaN,NaN,NaN,14,NaN,9,NaN,9,NaN,9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+66,Oct 27,21,NaN,NaN,NaN,house wars,no_skip,NaN,NaN,0,NaN,NaN,8,NaN,NaN,8,0,8,0,NaN,8,0,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+67,Oct 28,0,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,NaN,NaN,9,NaN,9,13,9,NaN,9,NaN,NaN,13,13,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 68,Oct 28,11,NaN,NaN,NaN,"spirit rally, no rng
 1st house answer all = 12
 house answer all = 6
-else 0, chloe, raymond +1 for response",skip,6,6,6,6,12,0,13,12,0,6,1,6,6,0,6,12,NaN,NaN
-69,Oct 28,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,13,NaN,9,NaN,13,9,9,NaN,9,NaN,NaN,13,24,9,NaN,NaN,NaN
-70,Oct 28,9,NaN,NaN,NaN,house wars,no_skip,0,0,NaN,0,8,NaN,8,8,NaN,NaN,NaN,NaN,0,NaN,NaN,8,NaN,NaN
-71,Oct 29,0,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,8,12,NaN,2,NaN,12,18,5,NaN,5,NaN,NaN,18,2,5,NaN,NaN,NaN
-72,Oct 29,1,"{25:0.167, 0:0.833}",NaN,NaN,pick a door,no_skip,0,0,0,0,0,0,0,0,0,0,25,25,0,0,0,0,NaN,NaN
-73,Oct 29,17,NaN,NaN,NaN,"spirit rally, no rng, 1st house = 22, else = 6",skip,22,22,6,22,6,NaN,6,6,NaN,6,NaN,6,22,NaN,6,6,NaN,NaN
-74,Oct 29,18,NaN,NaN,NaN,"survey, no rng",skip,14,14,NaN,14,14,14,14,14,NaN,14,14,NaN,14,14,14,NaN,NaN,NaN
-75,Oct 29,12,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,5,5,NaN,12,5,8,12,8,NaN,5,NaN,NaN,12,NaN,NaN,NaN,NaN,NaN
-76,Oct 29,20,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,18,18,12,18,2,12,18,8,NaN,8,NaN,12,5,5,NaN,NaN,NaN,NaN
-77,Oct 30,0,NaN,NaN,NaN,"house wars semifinals: Big D*** Candy N vs G-SPOT, NATHAN 5HP CLUTCH",no_skip,NaN,NaN,0,NaN,12,NaN,12,12,NaN,0,NaN,0,NaN,NaN,0,12,NaN,NaN
-78,Oct 30,0,NaN,NaN,NaN,house wars semifinals: The Lolli-POPPERS vs Kogi's Disposed Testicles,no_skip,12,12,NaN,12,NaN,0,NaN,NaN,0,NaN,0,NaN,12,0,NaN,NaN,NaN,NaN
-79,Oct 30,0,NaN,NaN,NaN,"house wars winners finals: Big D*** Candy N vs The Lolli-POPPERS, 1 HP LAWRENCE CLUTCH",no_skip,16,16,NaN,16,0,NaN,0,0,NaN,NaN,NaN,NaN,16,NaN,NaN,0,NaN,NaN
-80,Oct 30,0,NaN,NaN,NaN,house wars losers opener: G-SPOT vs Kogi's Disposed Testicles,no_skip,NaN,NaN,0,NaN,NaN,10,NaN,NaN,10,0,10,0,NaN,10,0,NaN,NaN,NaN
-81,Oct 30,0,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,"hearing aid harry, GABI LEGENDARY 0.9% PULL",no_skip,NaN,NaN,12,5,5,60,NaN,18,NaN,18,NaN,NaN,5,5,18,NaN,NaN,NaN
-82,Oct 30,2,"{30:0.25, 0:0.75}",NaN,NaN,horse derby,no_skip,0,30,30,0,0,30,0,0,NaN,0,0,0,30,0,0,NaN,0,NaN
-83,Oct 30,12,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,18,NaN,8,NaN,8,5,8,12,NaN,2,NaN,2,12,12,5,NaN,NaN,NaN
-84,Oct 30,20,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,5,8,NaN,12,NaN,8,8,2,NaN,18,NaN,NaN,12,NaN,18,NaN,NaN,NaN
-85,Oct 31,0,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,30,5,30,5,NaN,5,12,12,NaN,5,NaN,NaN,8,2,60,NaN,NaN,NaN
-86,Oct 31,12,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,12,NaN,5,2,NaN,12,12,12,NaN,5,NaN,NaN,12,NaN,NaN,2,NaN,NaN
+else 0, chloe, raymond +1 for response",skip,6,6,6,6,12,0,13,12,0,6,1,6,6,0,6,12,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+69,Oct 28,20,"{0:0.5, 1:0.35, 2:0.1, 3:0.04, 10:0.01}",NaN,NaN,giovanni,no_skip,NaN,13,NaN,9,NaN,13,9,9,NaN,9,NaN,NaN,13,24,9,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+70,Oct 28,9,NaN,NaN,NaN,house wars,no_skip,0,0,NaN,0,8,NaN,8,8,NaN,NaN,NaN,NaN,0,NaN,NaN,8,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+71,Oct 29,0,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,8,12,NaN,2,NaN,12,18,5,NaN,5,NaN,NaN,18,2,5,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+72,Oct 29,1,"{25:0.167, 0:0.833}",NaN,NaN,pick a door,no_skip,0,0,0,0,0,0,0,0,0,0,25,25,0,0,0,0,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+73,Oct 29,17,NaN,NaN,NaN,"spirit rally, no rng, 1st house = 22, else = 6",skip,22,22,6,22,6,NaN,6,6,NaN,6,NaN,6,22,NaN,6,6,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+74,Oct 29,18,NaN,NaN,NaN,"survey, no rng",skip,14,14,NaN,14,14,14,14,14,NaN,14,14,NaN,14,14,14,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+75,Oct 29,12,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,5,5,NaN,12,5,8,12,8,NaN,5,NaN,NaN,12,NaN,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+76,Oct 29,20,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,18,18,12,18,2,12,18,8,NaN,8,NaN,12,5,5,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+77,Oct 30,0,NaN,NaN,NaN,"house wars semifinals: Big D*** Candy N vs G-SPOT, NATHAN 5HP CLUTCH",no_skip,NaN,NaN,0,NaN,12,NaN,12,12,NaN,0,NaN,0,NaN,NaN,0,12,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+78,Oct 30,0,NaN,NaN,NaN,house wars semifinals: The Lolli-POPPERS vs Kogi's Disposed Testicles,no_skip,12,12,NaN,12,NaN,0,NaN,NaN,0,NaN,0,NaN,12,0,NaN,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+79,Oct 30,0,NaN,NaN,NaN,"house wars winners finals: Big D*** Candy N vs The Lolli-POPPERS, 1 HP LAWRENCE CLUTCH",no_skip,16,16,NaN,16,0,NaN,0,0,NaN,NaN,NaN,NaN,16,NaN,NaN,0,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+80,Oct 30,0,NaN,NaN,NaN,house wars losers opener: G-SPOT vs Kogi's Disposed Testicles,no_skip,NaN,NaN,0,NaN,NaN,10,NaN,NaN,10,0,10,0,NaN,10,0,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+81,Oct 30,0,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,"hearing aid harry, GABI LEGENDARY 0.9% PULL",no_skip,NaN,NaN,12,5,5,60,NaN,18,NaN,18,NaN,NaN,5,5,18,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+82,Oct 30,-1,"{30:0.25, 0:0.75}",NaN,NaN,horse derby,no_skip,0,30,30,0,0,30,0,0,NaN,0,0,0,30,0,0,NaN,0,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+83,Oct 30,12,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,18,NaN,8,NaN,8,5,8,12,NaN,2,NaN,2,12,12,5,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+84,Oct 30,20,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,5,8,NaN,12,NaN,8,8,2,NaN,18,NaN,NaN,12,NaN,18,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+85,Oct 31,0,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,30,5,30,5,NaN,5,12,12,NaN,5,NaN,NaN,8,2,60,NaN,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+86,Oct 31,12,"{2:0.2, 5:0.2, 8:0.2, 12:0.2, 18:0.14, 30:0.05, 60:0.009, 200:0.001}",NaN,NaN,hearing aid harry,no_skip,12,NaN,5,2,NaN,12,12,12,NaN,5,NaN,NaN,12,NaN,NaN,2,NaN,NaN,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
