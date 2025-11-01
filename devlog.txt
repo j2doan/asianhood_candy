@@ -1,0 +1,16 @@
+v0.1 - 10/29
+-Initialized github page with README, html file, css file, and python notebook
+-Imported small test dataset
+
+v0.2 - 10/31
+-Python notebook updated
+    -Dataset Parser
+    -Individual z score calculator function
+    -Module Importation
+    -Cumulative Candy Line Plot
+    -Probability Density function and Plot
+
+v0.3 - 11/1
+-Python notebook updated
+    -Z score bar chart added
+-Larger test dataset imported
