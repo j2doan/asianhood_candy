@@ -1,5 +1,6 @@
 html {
     background-image: url("../images/background.png");
+    background-size: 100vw;
 }
 
 @font-face {
@@ -14,8 +15,8 @@ h1 {
     border-radius: 200px;
 
     text-align: center;
-    border: 1px solid black;
-    padding:40px;
+    border: 0.01vw solid black;
+    padding: 1.2vw;
     margin:auto;
 
     font-family: "Halloween";
@@ -33,7 +34,7 @@ body {
 
 img {
     display: block;
-    border: 1px solid black;
+    border: 0.01vw solid black;
     background-color: white;
     border-radius: 75px;
     padding: 3vw;
