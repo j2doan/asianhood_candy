@@ -12,7 +12,7 @@ html {
 h1 {
     font-size: 5vw;
     background-color: lightsalmon;
-    border-radius: 50vw;
+    border-radius: 200px;
 
     text-align: center;
     border: 0.01vw solid black;
@@ -36,7 +36,7 @@ img {
     display: block;
     border: 0.01vw solid black;
     background-color: white;
-    border-radius: 5vw;
+    border-radius: 75px;
     padding: 3vw;
     margin: 0.8vw;
     max-width: 80%;
