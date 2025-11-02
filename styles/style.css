@@ -40,4 +40,47 @@ img {
     padding: 3vw;
     margin: 0.8vw;
     max-width: 80%;
+
+/* html {
+    background-image: url("../images/background.png");
+    background-size: 100vw;
 }
+
+@font-face {
+    font-family: "Halloween";
+    src: url("../fonts/SHLOP.ttf");
+    font-style: normal;
+}
+
+h1 {
+    font-size: 5vw;
+    background-color: lightsalmon;
+    border-radius: 200px;
+
+    text-align: center;
+    border: 0.01vw solid black;
+    padding: 1.2vw;
+    margin:auto;
+
+    font-family: "Halloween";
+}
+
+body {
+    align-items: center;
+    width: 95vw;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: block;
+    border: 0.01vw solid black;
+    background-color: white;
+    border-radius: 75px;
+    padding: 3vw;
+    margin: 0.8vw;
+    max-width: 80%;
+} */
