@@ -11,8 +11,8 @@ html {
 
 h1 {
     font-size: 5vw;
-    background-color: lightsalmon;
-    border-radius: 200px;
+    background-color: rgba(255, 160, 122, 55%);
+    border-radius: 50vw;
 
     text-align: center;
     border: 0.01vw solid black;
@@ -40,3 +40,4 @@ img {
     padding: 3vw;
     margin: 0.8vw;
     max-width: 80%;
+}
